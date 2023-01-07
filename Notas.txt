@@ -10,9 +10,11 @@ git add (historia.txt)
 
 git commit -m - "Comenta los cambios hechos"
 
+{
 git config --global user.name "Andrés González"
 
 git config --global user.email "andd011@yahoo.com"
+}
 
 git config -- list
 
@@ -25,3 +27,5 @@ git diff
 git log nombrearchivo.txt
 
 git add .  - Para añadir los últimos cambios hechos
+
+git show (para ver los cambios)
