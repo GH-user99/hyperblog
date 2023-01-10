@@ -1,5 +1,0 @@
-Este es un ejercicio de Git.
-
-Este es el primer cambio; fue hecho a la línea original.
-
-Este es el segundo cambio; fue hecho a la segunda línea original.
